@@ -3,19 +3,19 @@
 ## Webinar / Live coding / TBD...
 If you have a topic you would like covered, create of comment / question or create and issue on this repo or hit us up on twitter. 
 
-Florian Beijers ([@zersiax](https://twitter.com/zersiax))
+- Florian Beijers ([@zersiax](https://twitter.com/zersiax))
 
-Josh McCall ([@joshmccall](https://twitter.com/joshmccall))
+- Josh McCall ([@joshmccall](https://twitter.com/joshmccall))
 
-dragon788 ([@dragon788](https://twitter.com/dragon788))
+- dragon788 ([@dragon788](https://twitter.com/dragon788))
 
-##Goals: 
+## Goals: 
 - Better understand the workflow / process of:
   - Using applications / webapps
   - Developing applications / webapps
 
 
-##Articles:
+## Articles:
 
 [A Vision of Coding, Without Opening your Eyes](https://medium.freecodecamp.com/looking-back-to-what-started-it-all-731ef5424aec#.flvcxn7kr)
 
@@ -24,7 +24,7 @@ dragon788 ([@dragon788](https://twitter.com/dragon788))
 ## Guest: 
 Florian Beijers (twitter: [@zersiax](https://twitter.com/zersiax) medium: [medium.freecodecamp.com](https://medium.freecodecamp.com/@zersiax))
 
-##Q's: 
+## Q's: 
 - What is your background? (strong background in accessibility, [see medium bio](https://medium.freecodecamp.com/@zersiax))
 - Why are you interested in tech.
 - Why is it important for others to be interested in this area?
@@ -38,3 +38,4 @@ Florian Beijers (twitter: [@zersiax](https://twitter.com/zersiax) medium: [mediu
 - How does someone who knows nothing learn more / get started?
 - How do we test? 
   - Frameworks, user testing etc.    
+- How do we increase awareness among colleagues / higher ups etc?
