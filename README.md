@@ -21,6 +21,7 @@ If you have a topic you would like covered, create of comment / question or crea
 
 [A visionless vision of coding: One Year Later](https://medium.com/@zersiax/a-visionless-vision-of-coding-one-year-later-f1c457d70489#.iiwt3bqzg)
 
+[Hacker News: How a Blind Person Programs (freecodecamp.com)](https://news.ycombinator.com/item?id=8965048)
 ## Guest: 
 Florian Beijers (twitter: [@zersiax](https://twitter.com/zersiax) medium: [medium.freecodecamp.com](https://medium.freecodecamp.com/@zersiax))
 
