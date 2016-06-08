@@ -48,8 +48,10 @@ Q: Walk us through how you develop tech.
 
 Q: What tools?
   - the good / the bad / the ugly
+
 >A: @zersiax: See article as well as webinar.
     - What and how to improve these tools. 
+
 >A: @zersiax:See webinar.
 
 Q: How does someone who knows nothing learn more / get started?
@@ -58,6 +60,7 @@ Q: How does someone who knows nothing learn more / get started?
 
 Q: How do we test? 
 - Frameworks, user testing etc. 
+-
 >A: @zersiax: See webinar. THings of note, AxeCore, AccessWorks   
 
 Q: How do we increase awareness among colleagues / higher ups etc?
