@@ -26,7 +26,7 @@ Florian Beijers (twitter: [@zersiax](https://twitter.com/zersiax) medium: [mediu
 
 ## Q's: 
 Q: What is your background? 
->A: @zersiax: strong background in accessibility, [see medium bio](https://medium.freecodecamp.com/@zersiax), as well as computer science student, musician, linguist as a hobby
+>A: @zersiax: strong background in accessibility, as well as computer science student, musician, linguist as a hobby [see medium bio](https://medium.freecodecamp.com/@zersiax)
 
 Q: Why are you interested in tech?
 >A: @zersiax: Tech has been a part of my life ever since I can remember. Making my career out of it was therefore an easy choice.
